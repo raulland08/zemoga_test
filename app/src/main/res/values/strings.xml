@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zemoga</string>
+    <string name="posts_title">Posts</string>
+    <string name="tab_all_title">All</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="description_label">Description</string>
+    <string name="user_label">User</string>
+    <string name="comments_label">Comments</string>
+</resources>
